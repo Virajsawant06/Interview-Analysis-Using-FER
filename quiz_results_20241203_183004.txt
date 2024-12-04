@@ -1,0 +1,30 @@
+--- Quiz Results ---
+
+Q: In what year did World War II end?
+Your Answer: 1991
+Verification Feedback: Incorrect. Expected keywords: 1945, nineteen forty-five
+Confidence: 0.00%
+
+Q: What is the capital of Japan?
+Your Answer: tokyo
+Verification Feedback: Correct! Keywords found: tokyo
+Confidence: 50.00%
+
+Q: Who wrote the play Romeo and Juliet?
+Your Answer: william shakespeare
+Verification Feedback: Correct! Keywords found: shakespeare, william shakespeare
+Confidence: 100.00%
+
+Q: What is the capital of France?
+Your Answer: paris
+Verification Feedback: Correct! Keywords found: paris
+Confidence: 50.00%
+
+Q: Who was the first person to walk on the moon?
+Your Answer: neil armstrong
+Verification Feedback: Correct! Keywords found: neil armstrong, armstrong
+Confidence: 100.00%
+
+--- Final Score ---
+Correct Answers: 4/5
+Score: 80.00%
